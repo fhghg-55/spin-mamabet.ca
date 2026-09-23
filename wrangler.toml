@@ -1,0 +1,11 @@
+name = "spin-mamabet-ca"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mamabet.ca"
+HMAC_KEY = "c21b9ef3d9d6a231c84d5a64b5ab88b051e1d37cf6fd3d74a7af166fa674e038"
+COOKIE_NAME = "bn8"
+PLAY_PATH = "go"
+BUTTON_ID = "pd893a8ffc0a296c8c02b577d3daaf2cb"
+GATE_SALT = "3d706ed20e3d8c86"
